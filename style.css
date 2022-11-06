@@ -307,7 +307,6 @@ body {
     display: inline-block;
     opacity: 0;
 
-
 }
 
 @keyframes an {
@@ -340,8 +339,8 @@ body {
 @media (max-width:600px){
 
     #heading .ttxt h1{
-        font-size:25vw;
-        line-height: 16vh;
+        font-size:18vw;
+        line-height: 13vh;
         width: 100%;
         margin-top: 5px;
     }

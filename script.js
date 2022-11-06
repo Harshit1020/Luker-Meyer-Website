@@ -51,6 +51,7 @@ document.querySelectorAll(".img").forEach(function (elem) {
           document.querySelector("#rrrr").style.opacity ="1";
           document.querySelector("#gola").style.backgroundColor = "transparent";
             document.querySelector("#gola").style.mixBlendMode = "difference";
+            
 
 
 
