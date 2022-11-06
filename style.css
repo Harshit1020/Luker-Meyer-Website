@@ -355,6 +355,7 @@ body {
         margin-top:200px;
         position: relative;
         right: -15%;
+        
        
     }
     #sections .section:nth-child(2n){
@@ -399,5 +400,9 @@ margin-top: 70vw;
 #sections{
 
     margin-top: -120px;
+}
+#awardstag{
+
+    z-index: 999999;
 }
 }
